@@ -1,0 +1,44 @@
+# Written by Nicole Kerrison, the following Matplotlib style sheet was 
+# inspired by Charli XCX's 'True Romance' (2013), whose album cover art
+# was updated in anticipation of her sixth studio album, 'BRAT' (2024).
+
+figure.dpi             : 300
+figure.facecolor       : 94006A
+figure.titlesize       : 26
+
+font.family            : Arial Narrow, Arial
+font.stretch           : condensed
+text.color             : ffffff
+
+lines.linewidth        : 1.5
+lines.markerfacecolor  : ffffff
+lines.markeredgecolor  : ffffff
+
+axes.prop_cycle        : cycler('color', ['ffffff'])
+axes.linewidth         : 1.5
+axes.titlesize         : 22
+axes.titleweight       : bold
+axes.labelsize         : 22
+axes.facecolor         : 94006A
+axes.edgecolor         : ffffff
+axes.labelcolor        : ffffff
+axes.titlepad          : 15
+axes.labelpad          : 10
+axes.titlecolor        : ffffff
+
+xtick.labelcolor       : ffffff
+ytick.labelcolor       : ffffff
+xtick.color            : ffffff
+ytick.color            : ffffff
+xtick.labelsize        : 15
+ytick.labelsize        : 15
+xtick.direction        : out
+ytick.direction        : out
+
+legend.fontsize        : 15
+legend.frameon         : False
+legend.facecolor       : 94006A
+legend.labelcolor      : ffffff
+legend.framealpha      : 0.5
+
+savefig.facecolor      : 94006A

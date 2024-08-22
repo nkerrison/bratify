@@ -1,0 +1,43 @@
+# Written by Nicole Kerrison, the following Matplotlib style sheet was 
+# inspired by Charli XCX's 'BRAT' (2024) album cover art.
+
+figure.dpi             : 300
+figure.facecolor       : 89CC04
+figure.titlesize       : 26
+
+font.family            : Arial Narrow, Arial
+font.stretch           : condensed
+text.color             : 000000
+
+lines.linewidth        : 1.5
+lines.markerfacecolor  : 000000
+lines.markeredgecolor  : 000000
+
+axes.prop_cycle        : cycler('color', ['000000'])
+axes.linewidth         : 1.5
+axes.titlesize         : 22
+axes.titleweight       : bold
+axes.labelsize         : 22
+axes.facecolor         : 89CC04
+axes.edgecolor         : 000000
+axes.labelcolor        : 000000
+axes.titlepad          : 15
+axes.labelpad          : 10
+axes.titlecolor        : 000000
+
+xtick.labelcolor       : 000000
+ytick.labelcolor       : 000000
+xtick.color            : 000000
+ytick.color            : 000000
+xtick.labelsize        : 15
+ytick.labelsize        : 15
+xtick.direction        : out
+ytick.direction        : out
+
+legend.fontsize        : 15
+legend.frameon         : False
+legend.facecolor       : 89CC04
+legend.labelcolor      : 000000
+legend.framealpha      : 0.5
+
+savefig.facecolor      : 89CC04
